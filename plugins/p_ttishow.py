@@ -62,7 +62,7 @@ async def save_group(bot, message):
                                                                            InlineKeyboardButton('Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ', url=GRP_LNK),
                                                                            InlineKeyboardButton('Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ', url=CHNL_LNK)
                                                                         ],[
-                                                                           InlineKeyboardButton("Bᴏᴛ Oᴡɴᴇʀ", url="t.me/netflix_india_007")
+                                                                           InlineKeyboardButton("Bᴏᴛ Oᴡɴᴇʀ", url="t.me/rajbharsaheb")
                                                                          ]]
                                                  ),
                                                  parse_mode=enums.ParseMode.HTML
@@ -87,8 +87,8 @@ async def leave_a_chat(bot, message):
         chat = chat
     try:
         buttons = [[
-            InlineKeyboardButton('Support Group', url="https://t.me/+PA8OPL2Zglk3MDM1"),
-            InlineKeyboardButton('Owner', url="https://t.me/netflix_india_007")
+            InlineKeyboardButton('Support Group', url="https://t.me/rajbharmvsupport"),
+            InlineKeyboardButton('Owner', url="https://t.me/rajbharsaheb")
         ],[
             InlineKeyboardButton('Use Me Here', url=f'https://t.me/{SUPPORT_CHAT}')
         ]]
